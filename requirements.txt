@@ -1,0 +1,14 @@
+# Geo-EDA: NISAR Lake Tahoe exploratory analysis
+asf_search>=10.0
+h5py
+numpy
+pandas
+matplotlib
+pyproj
+shapely
+fsspec
+aiohttp
+jupyter
+nbconvert
+ipykernel
+rasterio
