@@ -1,6 +1,6 @@
 # NISAR over Lake Tahoe: initial data exploration
 
-**For:** Amber · **From:** Coco · **Date:** 2026-10-21
+**Date:** 2026-10-21
 **Status:** exploration only, no modelling. Code and data paths are in this repository.
 
 ---
@@ -129,13 +129,12 @@ HV is about 6 dB weaker than HH everywhere, which is normal.
 
 ## 6. Questions for you
 
-1. **Research direction:** how could GUNW (coherence, phase) help identify **fuel loads** and assess
+1. **Research direction:** how could GSLC and GUNW (coherence, phase) help identify **fuel loads** and assess
    **wildfire risk**? 
 2. **Lab tools:** does the lab have a **GitHub repository** or standard scripts for analysing and
    visualising NISAR data that I should use instead of, or alongside, my own?
 3. **Study area:** should I focus on a specific region (e.g. a forested area) rather than the whole lake,
    and does it need to match a particular research goal or ground data?
-4. **Time span:** more dates are available (Nov 2025 → Oct 2026, every 12 days). Would a time series,
-   e.g. through the snow season, be the useful next step?
-5. **Data maturity:** these products are PROVISIONAL (calibrated, partially validated); VALIDATED
-   reprocessing is expected late 2026. Is PROVISIONAL acceptable for now?
+4. **HH vs HV:** how is the difference between HH and HV best visualized? In my plots the two
+   polarizations look quite similar, so I didn't notice much difference.
+5. **Data:**  what is the difference between PROVISIONAL and UNCALIBRATED datasets?
