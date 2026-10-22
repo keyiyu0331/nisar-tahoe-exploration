@@ -127,7 +127,7 @@ HV is about 6 dB weaker than HH everywhere, which is normal.
 
 ---
 
-## 6. Questions for you
+## 6. Questions for Amber
 
 1. **Research direction:** how could GSLC and GUNW (coherence, phase) help identify **fuel loads** and assess
    **wildfire risk**? 
